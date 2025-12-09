@@ -1,4 +1,4 @@
-import k from "../../kaboom";
+import k from "../../kaplay";
 
 export default function loadControls() {
   const player = k.get("player")[0];

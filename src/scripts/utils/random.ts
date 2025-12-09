@@ -1,4 +1,4 @@
-import k from "../kaboom";
+import k from "../kaplay";
 
 export const getRandomPosition = () => {
   const x = k.rand(32, 1600);

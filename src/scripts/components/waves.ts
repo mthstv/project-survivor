@@ -1,5 +1,5 @@
-import { GameObj } from "kaboom";
-import k from "../kaboom";
+import { GameObj } from "kaplay";
+import k from "../kaplay";
 import { loadWaveUI } from "./loaders/ui";
 import { spawnEnemyWave } from "./spawner";
 

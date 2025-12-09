@@ -1,4 +1,4 @@
-import k from "../kaboom";
+import k from "../kaplay";
 
 export function loadEnd() {
   k.scene("end", (points: number, waves: number, enemiesDestroyed: number, money: number) => {

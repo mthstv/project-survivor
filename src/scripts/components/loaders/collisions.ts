@@ -1,5 +1,5 @@
-import { GameObj } from "kaboom";
-import k from "../../kaboom";
+import { GameObj } from "kaplay";
+import k from "../../kaplay";
 import { loadEnemyHealthBar, loadPlayerHealthBar } from "./ui";
 import { checkWaveClear } from "../waves";
 

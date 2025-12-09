@@ -1,4 +1,4 @@
-import k from '../kaboom';
+import k from '../kaplay';
 import { getRandomPosition } from '../utils/random';
 import { loadEnemyHealthBar } from './loaders/ui';
 

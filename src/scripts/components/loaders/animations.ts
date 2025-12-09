@@ -1,5 +1,5 @@
-import { GameObj } from "kaboom";
-import k from "../../kaboom";
+import { GameObj } from "kaplay";
+import k from "../../kaplay";
 
 export function loadPlayerAttack(player: GameObj) {
   player.attackloopEvent = k.loop(player.attackSpeed, () => {

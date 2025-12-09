@@ -1,7 +1,7 @@
-// See the settings page: https://kaboomjs.com/
-import kaboom from "kaboom";
+// See the settings page: https://kaplayjs.com/
+import kaplay from "kaplay";
 
-export const k = kaboom({
+export const k = kaplay({
   canvas: document.getElementById("game") as HTMLCanvasElement,
   background: [ 0, 0, 0],
   font: "sans-serif",

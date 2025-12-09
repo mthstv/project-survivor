@@ -1,6 +1,6 @@
 # project-survivor
 
-A survivor game using [KaboomJs](https://kaboomjs.com/) (WIP)
+A survivor game using [KaplayJs](https://kaplayjs.com/) (WIP)
 
 ```
 $ npm install

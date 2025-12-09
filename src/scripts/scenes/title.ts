@@ -1,4 +1,4 @@
-import k from "../kaboom";
+import k from "../kaplay";
 
 export function loadTitle() {
   k.scene("title", () => {

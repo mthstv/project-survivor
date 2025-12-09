@@ -1,4 +1,4 @@
-import k from "../kaboom";
+import k from "../kaplay";
 import loadControls from "../components/loaders/controls";
 import loadCollisions from "../components/loaders/collisions";
 import loadAnimations from '../components/loaders/animations';

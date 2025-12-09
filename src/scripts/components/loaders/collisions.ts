@@ -65,6 +65,12 @@ export default function loadCollisions() {
     score.value = player.points;
     // upgradePlayerAttackSpeed();
 
+    
+    if (player.hp() < player.maxHealth) {
+      player.heal(1);
+      loadPlayerHealthBar();
+    }
+    
     checkWaveClear();
   });
 }
